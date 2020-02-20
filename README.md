@@ -1,0 +1,2 @@
+# GlitchImageArrays
+For this assignment, we will work with Glitch behavior — where you get non-predictive and erratic effects — and build upon the concept of the state machine. We will specifically use images and other shape-drawing techniques with timers using millis() to create erratic behavior.  Using the imageSequenceP5 as a working skeleton example, you will improve on this behavior and create a state machine slide display using arrays of images and millis() to along with mouse interactivity to navigate between the states.
